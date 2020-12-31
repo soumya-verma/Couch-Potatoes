@@ -1,0 +1,11 @@
+*{
+	margin:0;
+	padding:0;
+}
+#top{
+	letter-spacing: 7px;
+}
+#heading{
+	font-size:50px;
+	font-family: forte;
+}
